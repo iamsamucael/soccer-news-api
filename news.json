@@ -1,23 +1,27 @@
 [
   {
+    "id": 1,
     "tittle": "Otimismo",
     "body": "Apesar de derrotas, Pia mantém confiança na seleção: 'Estaremos prontas para a Copa América'",
     "image": "https://iamsamucael.github.io/soccer-news-api/images/gettyimages-1241592073.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
   },
   {
+    "id": 2,
     "tittle": "Duas mudanças",
     "body": "Natascha e Duda Sampaio são chamadas para a Copa América após cortes de Letícia Izidoro e Gabi Nunes.",
     "image": "https://iamsamucael.github.io/soccer-news-api/images/2.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/07/03/natascha-e-duda-sampaio-sao-chamadas-para-a-copa-america-apos-cortes-de-leticia-izidoro-e-gabi-nunes.ghtml"
   },
   {
+    "id": 3,
     "tittle": "Campeonato Capixaba Feminino 2022",
     "body": "A partir deste domingo nove times disputam o Campeonato Capixaba Feminino 2022, que garante vaga para a Série A-3 do Brasileirão da categoria.",
     "image": "https://iamsamucael.github.io/soccer-news-api/images/carrossel-capixaba-1-.png",
     "link": "https://ge.globo.com/es/futebol/campeonato-capixaba-feminino/noticia/2022/06/23/campeonato-capixaba-feminino-2022-veja-a-tabela-e-a-classificacao-atualizada-dos-grupos.ghtml"
   },
   {
+    "id": 4,
     "tittle": "Barcelona anuncia a contratação",
     "body": "Brasileira de 24 anos deixa o Madrid CFF e ruma para gigante europeu após ser artilheira do Campeonato Espanhol.",
     "image": "https://iamsamucael.github.io/soccer-news-api/images/3.jpg",
